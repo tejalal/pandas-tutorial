@@ -28,3 +28,10 @@
 - Watch Part 1: https://youtu.be/mMJTVIF59bQ
 - Watch Part 2: https://youtu.be/kvz0nCbpz0s
 - Watch Part 3: https://youtu.be/OxQdhNNDh40
+
+### References:
+- [Pandas cheat sheet](https://github.com/pandas-dev/pandas/blob/master/doc/cheatsheet/Pandas_Cheat_Sheet.pdf)
+- [Tutorials point](https://www.tutorialspoint.com/python_pandas/index.htm)
+- [data36.com](https://data36.com/pandas-tutorial-3-important-data-formatting-methods-merge-sort-reset_index-fillna/)
+- [IRIS Dataset](https://archive.ics.uci.edu/ml/datasets/iris)
+- [311-Servce-Request Dataset](https://nycopendata.socrata.com/Social-Services/311-Service-Requests-from-2010-to-Present/erm2-nwe9)
