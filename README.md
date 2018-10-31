@@ -23,10 +23,9 @@
 - Working with "NYC 311 service request dataset" (Download it from [here](https://nycopendata.socrata.com/Social-Services/311-Service-Requests-from-2010-to-Present/erm2-nwe9), as the file is large and can not be uploaded.)
 - Working wih "Montréal's bike paths in 2012" dataset
 
+## Watch video on YouTube:
 
-Watch Video Part 1: https://youtu.be/mMJTVIF59bQ
-
-Watch Video Part 2: https://youtu.be/kvz0nCbpz0s
-
-Watch Video Part 3: https://www.youtube.com/embed/mMJTVIF59bQ
+Watch Part 1: https://youtu.be/mMJTVIF59bQ
+Watch Part 2: https://youtu.be/kvz0nCbpz0s
+Watch Part 3: https://www.youtube.com/embed/mMJTVIF59bQ
 
