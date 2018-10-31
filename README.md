@@ -7,3 +7,6 @@ Watch Video Part 1: https://www.youtube.com/embed/mMJTVIF59bQ
 Watch Video Part 2: https://www.youtube.com/embed/mMJTVIF59bQ
 
 Watch Video Part 3: https://www.youtube.com/embed/mMJTVIF59bQ
+
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
