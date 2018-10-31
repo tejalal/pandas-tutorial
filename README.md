@@ -1,8 +1,8 @@
-# pandas-tutorial
-Pandas is an open source Python library for Data Analysis. The repository contains the fundamentals of Pandas and different code example to work with different CSV datasets.
+## Pandas Tutorial
+- Pandas is an open source Python library for Data Analysis. 
+- The repository contains the fundamentals of Pandas and different code example to work with different CSV datasets.
 
 ## Toics Covered ?
-
 - Installation and version check
 - Series and DataFrame
 - Reading csv files (IRIS dataset)
@@ -24,11 +24,9 @@ Pandas is an open source Python library for Data Analysis. The repository contai
 - Working wih "Montréal's bike paths in 2012" dataset
 
 
-Watch Video Part 1: https://www.youtube.com/embed/mMJTVIF59bQ
+Watch Video Part 1: https://youtu.be/mMJTVIF59bQ
 
-Watch Video Part 2: https://www.youtube.com/embed/mMJTVIF59bQ
+Watch Video Part 2: https://youtu.be/kvz0nCbpz0s
 
 Watch Video Part 3: https://www.youtube.com/embed/mMJTVIF59bQ
 
-
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/mMJTVIF59bQ/0.jpg)](https://www.youtube.com/embed/mMJTVIF59bQ)
