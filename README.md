@@ -25,7 +25,7 @@
 
 ## Watch video on YouTube:
 
-### Watch Part 1: 
+### Watch Part 1: https://youtu.be/mMJTVIF59bQ
 [![Audi R8](http://img.youtube.com/vi/mMJTVIF59bQ/0.jpg)](https://www.youtube.com/watch?v=mMJTVIF59bQ "pandas tutorial")
 
 ### Watch Part 2: https://youtu.be/kvz0nCbpz0s
