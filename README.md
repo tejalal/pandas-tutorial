@@ -25,9 +25,14 @@
 
 ## Watch video on YouTube:
 
-- Watch Part 1: https://youtu.be/mMJTVIF59bQ
-- Watch Part 2: https://youtu.be/kvz0nCbpz0s
-- Watch Part 3: https://youtu.be/OxQdhNNDh40
+### Watch Part 1: 
+[![Audi R8](http://img.youtube.com/vi/mMJTVIF59bQ/0.jpg)](https://www.youtube.com/watch?v=mMJTVIF59bQ "pandas tutorial")
+
+### Watch Part 2: https://youtu.be/kvz0nCbpz0s
+[![Audi R8](http://img.youtube.com/vi/kvz0nCbpz0s/0.jpg)](https://www.youtube.com/watch?v=kvz0nCbpz0s "pandas tutorial")
+
+### Watch Part 3: https://youtu.be/OxQdhNNDh40
+[![Audi R8](http://img.youtube.com/vi/OxQdhNNDh40/0.jpg)](https://www.youtube.com/watch?v=OxQdhNNDh40 "pandas tutorial")
 
 ### References:
 - [Pandas cheat sheet](https://github.com/pandas-dev/pandas/blob/master/doc/cheatsheet/Pandas_Cheat_Sheet.pdf)
@@ -37,4 +42,4 @@
 - [311-Servce-Request Dataset](https://nycopendata.socrata.com/Social-Services/311-Service-Requests-from-2010-to-Present/erm2-nwe9)
 
 
-[![Audi R8](http://img.youtube.com/vi/mMJTVIF59bQ/0.jpg)](https://www.youtube.com/watch?v=mMJTVIF59bQ "Audi R8")
+
