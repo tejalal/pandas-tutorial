@@ -34,7 +34,7 @@
 ### Watch Part 3: https://www.youtube.com/watch?v=kMkuXqxZPBE
 [![Audi R8](https://i9.ytimg.com/vi/kMkuXqxZPBE/mqdefault.jpg?sqp=CMjvz-YF&rs=AOn4CLDDtTfHEurVbR94zyOWo7ORnB0zQQ&time=1557395531431](https://www.youtube.com/watch?v=kMkuXqxZPBE "pandas tutorial")
 
-### References:
+### References: 
 - [Pandas cheat sheet](https://github.com/pandas-dev/pandas/blob/master/doc/cheatsheet/Pandas_Cheat_Sheet.pdf)
 - [Tutorials point](https://www.tutorialspoint.com/python_pandas/index.htm)
 - [data36.com](https://data36.com/pandas-tutorial-3-important-data-formatting-methods-merge-sort-reset_index-fillna/)
