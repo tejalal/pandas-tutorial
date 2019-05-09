@@ -26,7 +26,7 @@
 ## Watch video on YouTube:
 
 ### Watch Part 1: https://youtu.be/mMJTVIF59bQ
-[![Audi R8](http://img.youtube.com/vi/mMJTVIF59bQ/0.jpg)](https://www.youtube.com/watch?v=mMJTVIF59bQ "pandas tutorial")
+[![Audi R8](https://i9.ytimg.com/vi/IYIwNQcLwZ8/mqdefault.jpg?sqp=CJztz-YF&rs=AOn4CLAuk6xXlYiN7GyrnvFwt7hcyxLe9Q&time=1557395337489)](https://www.youtube.com/watch?v=IYIwNQcLwZ8&t=2s "pandas tutorial")
 
 ### Watch Part 2: https://youtu.be/kvz0nCbpz0s
 [![Audi R8](http://img.youtube.com/vi/kvz0nCbpz0s/0.jpg)](https://www.youtube.com/watch?v=kvz0nCbpz0s "pandas tutorial")
