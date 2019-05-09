@@ -32,7 +32,7 @@
 [![Audi R8](https://i9.ytimg.com/vi/sGxFVeXT_2c/mqdefault.jpg?sqp=CMjvz-YF&rs=AOn4CLD8A96rHTWp8GX8KmrakGlN8q8DKA&time=1557395529504)](https://www.youtube.com/watch?v=sGxFVeXT_2c "pandas tutorial")
 
 ### Watch Part 3: https://www.youtube.com/watch?v=kMkuXqxZPBE
-[![Audi R8](https://i9.ytimg.com/vi/kMkuXqxZPBE/mqdefault.jpg?sqp=CMjvz-YF&rs=AOn4CLDDtTfHEurVbR94zyOWo7ORnB0zQQ&time=1557395531431](https://www.youtube.com/watch?v=kMkuXqxZPBE "pandas tutorial")
+[![Audi R8](https://i9.ytimg.com/vi/kMkuXqxZPBE/mqdefault.jpg?sqp=CMjvz-YF&rs=AOn4CLDDtTfHEurVbR94zyOWo7ORnB0zQQ&time=1557395531431)](https://www.youtube.com/watch?v=kMkuXqxZPBE "pandas tutorial")
 
 ### References: 
 - [Pandas cheat sheet](https://github.com/pandas-dev/pandas/blob/master/doc/cheatsheet/Pandas_Cheat_Sheet.pdf)
