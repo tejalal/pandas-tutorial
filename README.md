@@ -20,7 +20,7 @@
 - Plot of data with matplolib
 
 
-- Working with "NYC 311 service request dataset" (Download it from [here](https://nycopendata.socrata.com/Social-Services/311-Service-Requests-from-2010-to-Present/erm2-nwe9), as the file is large and can not be uploaded.)
+- Working with "NYC 311 service request dataset" (Download it from [here](https://nycopendata.socrata.com/Social-Services/311-Service-Requests-from-2010-to-Present/erm2-nwe9) or you can also download from [here](https://drive.google.com/file/d/1GwF94EpQ0nXjnrHPJEvyhknpvna7jEIH/view?usp=sharing))
 - Working wih "Montréal's bike paths in 2012" dataset
 
 ## Watch video on YouTube:
