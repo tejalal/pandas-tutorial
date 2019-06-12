@@ -29,10 +29,10 @@
 [![Audi R8](http://i3.ytimg.com/vi/IYIwNQcLwZ8/hqdefault.jpg)](https://www.youtube.com/watch?v=IYIwNQcLwZ8&t=2s "pandas tutorial")
 
 ### Watch Part 2 of 3: https://www.youtube.com/watch?v=sGxFVeXT_2c
-[![Audi R8](https://i9.ytimg.com/vi/sGxFVeXT_2c/mqdefault.jpg?sqp=CMjvz-YF&rs=AOn4CLD8A96rHTWp8GX8KmrakGlN8q8DKA&time=1557395529504)](https://www.youtube.com/watch?v=sGxFVeXT_2c "pandas tutorial")
+[![Audi R8](http://i3.ytimg.com/vi/sGxFVeXT_2c/maxresdefault.jpg)](https://www.youtube.com/watch?v=sGxFVeXT_2c "pandas tutorial")
 
 ### Watch Part 3 of 3: https://www.youtube.com/watch?v=kMkuXqxZPBE
-[![Audi R8](https://i9.ytimg.com/vi/kMkuXqxZPBE/mqdefault.jpg?sqp=CMjvz-YF&rs=AOn4CLDDtTfHEurVbR94zyOWo7ORnB0zQQ&time=1557395531431)](https://www.youtube.com/watch?v=kMkuXqxZPBE "pandas tutorial")
+[![Audi R8](http://i3.ytimg.com/vi/kMkuXqxZPBE/hqdefault.jpg)](https://www.youtube.com/watch?v=kMkuXqxZPBE "pandas tutorial")
 
 ### References: 
 - [Pandas cheat sheet](https://github.com/pandas-dev/pandas/blob/master/doc/cheatsheet/Pandas_Cheat_Sheet.pdf)
